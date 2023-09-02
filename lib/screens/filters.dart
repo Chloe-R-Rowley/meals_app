@@ -54,7 +54,7 @@ class _FiltersScreenState extends State<FiltersScreen> {
             {
               Filter.glutenFree: _glutenFreeFilterSet,
               Filter.lactoseFree: _lactoseFreeFilterSet,
-              Filter.vegetarian: _veganFilterSet,
+              Filter.vegetarian: _vegetarianFilterSet,
               Filter.vegan: _veganFilterSet,
             },
           );
