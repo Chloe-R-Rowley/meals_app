@@ -20,6 +20,7 @@ The deployment of the Hero widget showcased an advanced Flutter feature for crea
 The development of the Meals app not only resulted in a fully functional and visually appealing application but also served as an educational platform for mastering intricate concepts of navigation, state management, and animation in Flutter. The meticulous incorporation of these elements reflects a comprehensive understanding of Flutter's capabilities, emphasizing best practices for building complex and dynamic mobile applications.
 
 Here are the screenshots of the app:
+
 ![alt text](meals_app_categories_screen.png) ![alt text](meals_app_meals_screen.png) 
 ![alt text](meals_app_meals_details_screen.png) ![alt text](meals_app_side_drawer.png) 
 ![alt text](meals_app_empty_favorites_screen.png) ![alt text](meals_app_added_to_favorites_snackbar.png)
