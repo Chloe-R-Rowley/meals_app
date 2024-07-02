@@ -21,11 +21,16 @@ The development of the Meals app not only resulted in a fully functional and vis
 
 Here are the screenshots of the app:
 
-![alt text](meals_app_categories_screen.png) ![alt text](meals_app_meals_screen.png) 
-![alt text](meals_app_meals_details_screen.png) ![alt text](meals_app_side_drawer.png) 
-![alt text](meals_app_empty_favorites_screen.png) ![alt text](meals_app_added_to_favorites_snackbar.png)
-![alt text](meals_app_favorites_screen.png) ![alt text](meals_app_removed_from_favorites_snackbar.png) 
-![alt text](meals_app_filters_screen.png) ![alt text](meals_app_selected_filters.png)
+![alt text](meals_app_categories_screen.png)   ![alt text](meals_app_meals_screen.png)
+
+![alt text](meals_app_meals_details_screen.png)   ![alt text](meals_app_side_drawer.png)
+
+![alt text](meals_app_empty_favorites_screen.png)   ![alt text](meals_app_added_to_favorites_snackbar.png)
+
+![alt text](meals_app_favorites_screen.png)   ![alt text](meals_app_removed_from_favorites_snackbar.png)
+
+![alt text](meals_app_filters_screen.png)   ![alt text](meals_app_selected_filters.png)
+
 ![alt text](meals_app_after_filters.png) 
 
 Here is the demo of the app:
